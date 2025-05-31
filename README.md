@@ -11,6 +11,7 @@ Remote collaboration & Client communication
 
 ## Projects
 [Online cancer care patient management system(OCCPMS)](https://github.com/MureithiSharon/OCCPMS)
+A web based system that helps cancer patients and health providers manage treatment,appointments, and support records.
 
 Feel free to reach out via email:wakiosharon8@gmail.com
 
