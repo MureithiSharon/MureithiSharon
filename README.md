@@ -1,6 +1,6 @@
 ## Hi there,I`m Wakio Sharon Mureithi 👋
 
-I`m an ICT graduate passionate about system development and digital solutions.currently building my skills as an aspiring digital nomad and frelancer.
+I`m an ICT graduate passionate about system development and digital solutions.Currently building my skills as an aspiring digital nomad and freelancer.
 
 ## skills
 System analysis and development
