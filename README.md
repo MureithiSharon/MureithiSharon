@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hi there,I`m Wakio Sharon Mureithi 👋
 
-<!--
-**MureithiSharon/MureithiSharon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I`m an ICT graduate passionate about system development and digital solutions.currently building my skills as an aspiring digital nomad and frelancer.
 
-Here are some ideas to get you started:
+## skills
+System analysis and development
+Web development(HTML,CSS,Javascript)
+Database Management(MySQL)
+Git & Github Version Control
+Remote collaboration & Client communication
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+[Online cancer care patient management system(OCCPMS)](https://github.com/MureithiSharon/OCCPMS)
+
+Feel free to reach out via email:wakiosharon8@gmail.com
+
+
